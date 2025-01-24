@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h4 align="left">Hi 👋! My name is Lemom  and I'm a wannabe Game Developer from Cambodia</h4>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/pqA-K8uaHQMAAAAC/yuru-camp-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3.gif"  />
+<p align="left">What I can do At least A bit....</p>
 
 ###
 
@@ -28,6 +28,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/pqA-K8uaHQMAAAAC/yuru-camp-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3.gif"  />
 
 ###
 
