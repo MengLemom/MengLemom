@@ -58,11 +58,11 @@
 <br clear="both">
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MengLemom/MengLemom/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MengLemom/MengLemom/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MengLemom/MengLemom/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/6JannNcKg2gAAAAd/bocchi-bocchi-the-rock.gif"  />
